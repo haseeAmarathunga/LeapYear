@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//this is a basic program for get if input year is Leap or Not.
 class Leap
 {
 	public static void main(String[] args)

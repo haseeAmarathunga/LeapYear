@@ -13,7 +13,7 @@ class Leap
 					System.out.println("Leap Year.");
 				}
 				else{
-					System.out.println("Not a Leap Year.");
+					System.out.println("Not Leap Year.");
 				}
 			}
 			else{
@@ -21,7 +21,7 @@ class Leap
 			}
 		}
 		else{
-			System.out.println("Not a Leap Year.");
+			System.out.println("Not Leap Year.");
 		}
 		
 	}
